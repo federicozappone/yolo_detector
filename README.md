@@ -14,7 +14,7 @@ Download the YOLO pretrained weights from the following [link](https://drive.goo
 
 Put the weights in the ```weights``` folder.
 
-Run the detection demo on the included image ```image.jpg```
+Run the detection demo on the included image ```image.png```
 
 ```
 python detect.py
